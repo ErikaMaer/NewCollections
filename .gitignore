@@ -1,0 +1,7 @@
+/.idea
+<<<<<<< HEAD
+/.idea/*
+=======
+/.idea/*
+/node_modules/
+>>>>>>> Update app
